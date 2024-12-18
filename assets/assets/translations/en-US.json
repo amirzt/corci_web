@@ -167,5 +167,10 @@
   "contact_desc": "If you have any problem, you can contact our support team",
   "contact_phone": "Phone",
   "contact_email": "Email",
-  "telegram": "Telegram"
+  "telegram": "Telegram",
+  "EmptySearch": "I found nothing",
+
+  "edit_info" : "Edit Info",
+  "edit_skills": "Edit Skills"
+
 }

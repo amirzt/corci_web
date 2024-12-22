@@ -128,7 +128,7 @@
   "OfferSuccess": "پیشنهاد با موفقیت ثبت شد",
   "SelectDate": "انتخاب تاریخ",
   "SuccessAccept": "پیشنهاد با موفقیت پذیرفته شد",
-  "SuccessReject": "پیشنهاد رد شد",
+  "SuccessReject": "تغییرات ذخیره شد",
   "SuccessChange": "تغییرات با موفقیت ذخیره شد",
   "On going": "درحال انجام",
   "Completed": "پایان یافته",
@@ -163,13 +163,25 @@
   "pick up someone": "رساندن کسی",
   "pick up something": "رساندن چیزی",
   "other": "سایر",
-
   "contact_desc": "اگر با مشکل مواجه شدید میتونید از روشهای زیر با ما در ارتباط باشید",
   "contact_phone": "تلفن",
   "contact_email": "ایمیل",
   "telegram": "تلگرام",
   "EmptySearch": "چیزی پیدا نکردم",
-
   "edit_info" : "ویرایش اطلاعات",
-  "edit_skills": "ویرایش مهارت ها"
+  "edit_skills": "ویرایش مهارت ها",
+  "chooseLanguage": "انتخاب زبان",
+  "Connections": "کانکشن ها",
+  "UnFollow": "قطع ارتباط",
+  "NoConnections": "هیچ کانکشنی پیدا نکردم",
+
+  "AddSuccess": "با موفقیت اضافه شد",
+  "AddCategory": "لطفا یک دسته بندی انتخاب کنید",
+  "AddInput": "لطفا حداقل چند کلمه درباره نیازتون بنویسید",
+  "CancelOffer": "لغو درخواست",
+  " Connections": " ارتباط",
+  "Request to connect": "درخواست ارتباط"
+
+
+
 }

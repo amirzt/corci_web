@@ -117,7 +117,7 @@
   "email_desc": "Enter your email",
   "email_enter": "Please Enter your email",
   "UnknownError": "Oops something went wrong. Please try again",
-  "YourName": "Tell Us your name...",
+  "YourName": "Tell us your name...",
   "Name": "Name",
   "name_enter": "Please enter your name",
   "SelectSkill": "What are you skills?",
@@ -172,7 +172,7 @@
   "edit_skills": "Edit Skills",
   "chooseLanguage": "Choose language",
   "Connections": "Connections",
-  "UnFollow": "Un Follow",
+  "UnFollow": "Remove Connection",
   "NoConnections": "found no connections",
   "SendMessage": "SendMessage",
   "AddSuccess": "Successfully created",
@@ -180,6 +180,16 @@
   "AddInput": "please type something...",
   "CancelOffer": "Cancel your offer",
   " Connections": " Connections",
-  "Request to connect": "Request to connect"
-
+  "Request to connect": "Request to connect",
+  "enableDisable": "Enable or Disable",
+  "Disabled": "Disabled",
+  "call on desc": "For times when you or your loved ones need support, particularly emotional support.",
+  "expert tip desc": "For providing or seeking expert advice on a topic.",
+  "general tip desc": "For sharing or receiving general recommendations on a topic.",
+  "paperwork desc": "For helping someone with administrative tasks.",
+  "chore desc": "For helping someone with everyday tasks or errands.",
+  "payment desc": "For helping with financial transactions, especially international or Rial-based payments.",
+  "pick up someone desc": "For helping someone by driving them to their destination.",
+  "pick up something desc": "For delivering packages, whether within a city or internationally.",
+  "other desc": "For any other form of help that doesn't fit into the listed categories."
 }

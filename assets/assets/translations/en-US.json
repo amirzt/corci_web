@@ -191,5 +191,25 @@
   "payment desc": "For helping with financial transactions, especially international or Rial-based payments.",
   "pick up someone desc": "For helping someone by driving them to their destination.",
   "pick up something desc": "For delivering packages, whether within a city or internationally.",
-  "other desc": "For any other form of help that doesn't fit into the listed categories."
+  "other desc": "For any other form of help that doesn't fit into the listed categories.",
+
+  "help_title": "Tutorial",
+  "help_desc": "Do you want to see a short tutorial of how using the app?",
+  "show": "show",
+  "help_1": "From this section, you can add your posts or requests. These requests will be shown to the people you choose, and they can like them, comment on them, or make suggestions.",
+  "help_2": "This is the home page where you can see and engage with other users' requests and suggestions. If someone has a request you can help with or a suggestion that interests you, you can submit your proposal here.",
+  "help_3": "After you send your proposal to someone, you can communicate here. You can cancel the proposal you made. If the other person approves this proposal, it creates a responsibility for you.",
+  "help_4": "Once your proposal is accepted or you accept someone else's, a responsibility is created, which you can see here. Responsibilities are shown by their completion date. After finishing a task, you can confirm its completion and rate the other person.",
+  "help_5": "This section is your profile, where you can view your information. You can see and manage the list of people you're connected with. If you want to edit your information, you can use the dropdown menu above.",
+  "help_6": "Here you can specify who should see the post you're making. You can make it public for everyone to see, or specify that only close friends or acquaintances can see it. When you connect with someone, you're asked what level of connection you want. You can view and edit this list from your profile.",
+  "help_7": "From here, you can specify the type of content you're posting. If you just want to inform, you can post. If you need someone to do something for you, you can make a request. If you can do something, you can make a proposal.",
+  "help_8": "Here you can write any text that's on your mind.",
+  "help_9": "From here, you can add a photo.",
+  "help_10": "If you want to make a proposal or request, you need to specify what skill will be used and what category it falls under. For more information about these categories and their descriptions, you can use the main menu of the software and the skills editing section.",
+  "help_11": "If your need is urgent, you can specify it here to show it to other users with an urgent tag.",
+  "help_12": "Some things can't be bought with money! If what you have in mind falls into this category, check this option.",
+  "help_13": "If you have a specific date in mind for your task, you can specify it here.",
+  "help_14": "Finally, after completing the details, you can press the send button to submit your content.",
+  "first_time_help": "Welcome",
+  "first_time_help_desc": "Because it's your first time, do you want to see a short tutorial of how using the app?"
 }

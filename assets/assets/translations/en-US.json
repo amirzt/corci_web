@@ -113,7 +113,7 @@
   "faq_2": "Terms and Conditions",
   "enter_code": "Please enter your code",
   "Enter": "Enter",
-  "otp_desc": "Please Enter you 4 digit code",
+  "otp_desc": "Please Enter you 6 digit code",
   "email_desc": "Enter your email",
   "email_enter": "Please Enter your email",
   "UnknownError": "Oops something went wrong. Please try again",
@@ -211,5 +211,7 @@
   "help_13": "If you have a specific date in mind for your task, you can specify it here.",
   "help_14": "Finally, after completing the details, you can press the send button to submit your post.",
   "first_time_help": "Welcome",
-  "first_time_help_desc": "Because it's your first time, do you want to see a short tutorial of how using the app?"
+  "first_time_help_desc": "Because it's your first time, do you want to see a short tutorial of how using the app?",
+
+  "email_correct": "Please enter a valid email address."
 }

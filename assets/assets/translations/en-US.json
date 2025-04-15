@@ -213,5 +213,6 @@
   "first_time_help": "Welcome",
   "first_time_help_desc": "Because it's your first time, do you want to see a short tutorial of how using the app?",
 
-  "email_correct": "Please enter a valid email address."
+  "email_correct": "Please enter a valid email address.",
+  "No_chat": "You have no messages"
 }
